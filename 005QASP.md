@@ -1,24 +1,17 @@
 # PERFORMANCE BASED QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
 
-=============================================================
 
 {{ Forest Service e-permitting Application Protocol Interface}}
 
 ## 0.0 INTRODUCTION
 
-------------
-
 This Quality Assurance Surveillance Plan (QASP) has been developed to evaluate contractor actions while implementing the Performance WorkS tatement (PWS). It is designed to provide an effective surveillance method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix in the call order. It also provides a systematic method to evaluate the services the contractor is required to furnish.
 
 ## 1.0 STANDARD
 
---------
-
 The contractor is responsible for management and quality control actions to meet the terms of the call order. The role of the COR/ACOR is quality assurance to ensure call order standards are achieved. The contractor shall perform all work required in a satisfactory manner in accordance with the requirements of the PWS. The COR/ACOR shall notify the CO for appropriate action if it is likely that the contractor will not achieve successful final delivery of the software code in accordance with the performance objectives and acceptable quality levels (AQLs) identified below.
 
 ### 1.1 PERFORMANCE REQUIREMENTS MATRIX
-
--------------------------------
 
 The COR/ACOR will evaluate the performance objectives through surveillance as reflected below by reviews and acceptance of work products and services. As indicated, the COR/ACOR will assess progress towards the final delivered software code. Note that the performance requirements listed below are required for the final deliverable.
 
@@ -40,8 +33,6 @@ Secure | Code must be free of medium- and high-level static and dynamic security
 
 ### 1.2 PROCEDURES
 
-----------
-
 The COR/ACOR, along with the 18F Product Lead and the product owner, will inspect all tasks required by the call order to ensure contractor compliance with the call order requirements at the conclusion of each sprint, which shall have a length of two weeks or less. Delivery will occur by pull request from the contractor’s repository to the 18F repository. If inspection results are satisfactory, the pull request will be merged; otherwise, deficiencies will be noted in the pull request or through issues as described below. The COR/ACOR may find the delivery satisfactory even though further work is required, provided that the specific requirements of the sprint are met.
 
 At the conclusion of each sprint, the COR/ACOR, along with the 18F Product Lead and the product owner, will review the completed user stories and related functionality. Incomplete or inadequate code and user stories will be noted in a mutually agreed-upon issue tracker, such as Trello or GitHub Issues, and links to each issue shared with the CO. The contractor may respond in that tracker as appropriate, addressing the accuracy and validity of the defect as well as any planned corrective action (if not already noted). The contractor team will discuss and document actions to prevent recurrence in their sprint retrospectives.
@@ -56,13 +47,9 @@ If any of the services do not conform to the call order requirements, the COR/AC
 
 ### 1.3 ACCEPTANCE OF SERVICES
 
-----------------------
-
 Acceptance of services shall be based upon compliance with performance standards described in the PWS and surveillance procedures described in this QASP. Before approving/certifying any contractor invoices, the COR/ACOR will verify that all invoiced services have been performed in compliance with call order requirements. The COR/ACOR shall not certify satisfactory performance for the call order until all defects have been corrected.
 
 ## 2.0 KICK-OFF and DAILY ACTIVITIES
-
-----------------------
 
 ### 2.1 Post Award Orientation Conference
 
@@ -94,9 +81,7 @@ Contractor’s Project Manager shall be responsible for daily operations as well
 
 The GSA AASBS (Assisted Acquisition Services Business Systems also known as IT Solutions Shop (ITSS)) web portal will be accessible to the contractor during the performance of the call order and be used in the administration of the call order. This web-based system at <https://portal.fas.gsa.gov/web/guest> shall be used by the contractor to upload status reports, deliverables, invoices, and to respond to inquiries. The contractor shall maintain a current account on this system.
 
-## 3.0 Transition**
-
-----------------------
+## 3.0 Transition
 
 ### 3.1 Transition Plan
 
@@ -117,9 +102,6 @@ During the transition to the Government, or a new contractor, the contractor sha
 Final report shall include a list of sprint tasks completed, documentation, and link to code repository developed for 18F. Should the contractor be terminated prior to the end of the period of performance, the contractor shall transfer all project materials to the COR/ACOR and the 18F Product Lead within two weeks of the COR/ACOR and the 18F Product Lead’s request.
 
 ## 4.0 TERMS AND CONDITIONS
----------------------------------
-
-----------------------
 
 ### 4.1 Type of Contract
 
@@ -201,9 +183,6 @@ These warranties will not apply if the Programs are: (i) modified or altered in 
 All contractor key personnel, employees, agents, subcontractors and subcontractor personnel who will have access to documents or data during the performance of their duties under the contract shall execute the attached Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents.
 
 ## 5.0 INVOICING/PROCEDURES FOR PAYMENT
----------------------------------------------
-
-----------------------
 
 The period of performance for each invoice shall be for one calendar month. The contractor shall submit only one invoice per month per order/contract.
 
