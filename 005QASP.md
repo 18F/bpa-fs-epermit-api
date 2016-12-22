@@ -27,17 +27,11 @@ However, the sprints and incremental delivery of code will be assessed by the Go
 Deliverable or Required Services Performance Standard(s):
 
 **Deliverable or Required Services** | **Performance Standard(s)** | **Acceptable Quality Level (AQL)** | **Method of Surveillance**
-
 ----------- | ---------------- | -------------- | ---------------
-
 Tested Code | Code delivered under the order must have substantial test code coverage and a clean code base. | Minimum of 90% test coverage of all relevant code | Combination of manual review and automated testing, using agreed-upon publicly-available SaaS products
-
 Accessible | Client-side rendering must conform with section 508 standards. | 0 errors reported for 508 Standards using an automated scanner and 0 errors reported in manual testing | http://squizlabs.github.io/HTML\_CodeSniffer/ or https://github.com/pa11y/pa11y
-
 Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command | Combination of manual review and automatic testing
-
 Documented | All dependencies (and licenses for dependencies) are listed and all major functions are documented. | All dependencies are listed and the licenses are documented. Software/source code is documented. System diagram is provided. | Combination of manual review and automatic testing
-
 Available | Code must be stored in a version-controlled open-source repository. | All of the code needed to run the front end of the prototype must be available. | 18F will assess code availability.
 
 User research | Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | Artifacts from usability testing and/or other research methods with end-users are available at the end of every applicable sprint, in accordance with the vendor’s research plan. | 18F will evaluate the artifacts based on a research plan provided by the vendor at the end of the second sprint.
@@ -116,7 +110,7 @@ The contractor shall:
 
 -   Provide any other reasonable assistance to the Government to stand-up the application.
 
-### 3.2 Transition Activities**
+### 3.2 Transition Activities
 
 During the transition to the Government, or a new contractor, the contractor shall perform all necessary transition activities. Expected transition activities may include, but not be limited to, continuation of full services to 18F and other customers; participation in meetings with the Government or new contractor to effect a smooth transition and provide detailed information on the operation of all deliverables, at COR/ACOR and the 18F Product Lead's discretion; training of new personnel, either Government or new contractor, during transition period; and appropriate close-out of any outstanding technical and related performance elements for this task.
 
