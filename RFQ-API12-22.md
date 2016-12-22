@@ -170,7 +170,7 @@ e. *Date and Time.* The Government will schedule the date and time of the oral p
 
 f. *Participants.* Offerors may include as many participants as it feels is necessary. Offerors are advised to have technical personnel present since the Government will ask technical questions during the oral presentations. Type and number of participants included is at the offeror’s discretion and is the full responsibility of the offeror. All proposed Key Personnel currently employed by the offeror or its teaming partners shall attend the session - the Government is most interested in hearing from staff that will have a direct role in performing on the task. The letter(s) of intent and resume(s) will suffice for Key Personnel currently not employed by the offeror or its teaming partners.
 
-> After the presentations, offerors shall provide an email to confirm attendance with names of participants to the meeting organizers.
+   After the presentations, offerors shall provide an email to confirm attendance with names of participants to the meeting organizers.
 
 **8. Basis of Award and Evaluation Criteria**
 
