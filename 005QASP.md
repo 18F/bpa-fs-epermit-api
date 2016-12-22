@@ -257,6 +257,6 @@ Invoices for final payment must be so identified and submitted within 60 calenda
 
 The Government reserves the right to require certification by a COR/ACOR before payment is processed, if necessary.
 
-### 5.4 Close-out Procedures**
+### 5.4 Close-out Procedures
 
 The contractor shall submit a final invoice within 60 calendar days after the end of the performance period. After the final invoice has been paid the contractor shall furnish a completed and signed Release of Claims (GSA Form 1142) to the CO. This release of claims is due within 15 calendar days of final payment.
