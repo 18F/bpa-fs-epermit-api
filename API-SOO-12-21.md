@@ -1,18 +1,14 @@
 # Forest Service e-Permitting Application Protocol Interface
---------------------------------------------------------------
 
 ## Statement of Objectives
----------------------------
 
 ### 1.0 BACKGROUND
-------------------
 
 The U.S. Forest Service is engaged in an ongoing effort to modernize and simplify their permitting processes. One facet of this effort is “ePermitting”, or making the applications for many Forest Service permits available online.
 
 In the future, when applications for Forest Service permits are submitted online, they should pre-populate the related Forest Service database, the Special Use Data System (SUDS), a component of the National Resource Management system. This task order is for an Application Protocol Interface (API) layer future applications could use to read and write to SUDS, an Oracle system.
 
 ### 2.0 PERFORMANCE OBJECTIVES
-------------------------------
 
 The needs of this task order are provided in user story format to facilitate agile development. The user stories provided below shall be considered as the objectives to be satisfied for successful performance of this task order. These user stories may be refined by later sprints in order to continuously meet user needs.
 
@@ -51,7 +47,6 @@ The needs of this task order are provided in user story format to facilitate agi
 -   As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in one or two-week sprints and reviewed at the end of each sprint for acceptability per the Quality Assurance Surveillance Plan (QASP).
 
 ### 3.0 SCOPE
--------------
 
 This task order focuses on the creation of an API to encapsulate SUDS in order to enable rapid and modern development of other ePermitting tools. The high-level goals of the task order are the following:
 
